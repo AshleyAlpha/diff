@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 * First of all you have to make sure that you have an internet connection,
 * Open your web browser then,
-* Type this link: https://ashleyalpha.github.io/provision/ to view the website,
+* Type this link: https://ashleyalpha.github.io/diff/ to view the website,
 * Then, start searching people that use and have accounts on GITHUB.
 
  ## Technologies Used
