@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://images.pexels.com/photos/842711/pexels-photo-842711.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    }
+    
+    body{
+        color: snow;
+    }
+    footer{
+        text-align: center;
+        background-color: teal;
+        padding: 50px;
+    }
+    #two{
+        color: snow;
+        border: solid snow;
+        /* width: 20000%; */
+        /* height: 2000px; */
+        
+    }
