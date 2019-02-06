@@ -1,13 +1,13 @@
 
     footer{
         text-align: center;
-        background-color: teal;
+        background-color: rgb(103, 236, 236);
         padding: 50px;
     }
     #two{
         padding:40px;
     }
     #pato{
-        background-color: red;
+        background-color: teal;
         color:snow;
     }
