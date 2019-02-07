@@ -20,6 +20,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * CSS(Cascading Style Sheet)Bootstrap and my css styles to style those webpages.
 * Angular CLI which contains some installations that you have to generate before using them.
 * TS(Typescript to code)
+* Node Js
 
 ## BDD(Behavior Driven Development)
 
